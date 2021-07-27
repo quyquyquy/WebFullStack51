@@ -1,0 +1,19 @@
+
+.container{
+    width: 50%;
+    margin-left: 20%;
+    text-align: center;
+}
+.addContainer{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+.taskContainer{
+    width: 100%;
+    border-radius: 10px;
+}
+.legend{
+    font-size: 25px;
+}
